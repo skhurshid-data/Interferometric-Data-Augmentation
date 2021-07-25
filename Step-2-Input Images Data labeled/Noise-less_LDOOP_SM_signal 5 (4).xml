@@ -1,0 +1,50 @@
+<annotation>
+	<folder>noisy</folder>
+	<filename>Noise-less_LDOOP_SM_signal 5 (4).png</filename>
+	<path>E:\Thesis data\fringe detection\noisy-test-output\noisy\Noise-less_LDOOP_SM_signal 5 (4).png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2378</width>
+		<height>1210</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>negative_fringe</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>384</xmin>
+			<ymin>356</ymin>
+			<xmax>587</xmax>
+			<ymax>900</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>positive_fringe</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1190</xmin>
+			<ymin>206</ymin>
+			<xmax>1395</xmax>
+			<ymax>657</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>positive_fringe</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1426</xmin>
+			<ymin>205</ymin>
+			<xmax>1675</xmax>
+			<ymax>718</ymax>
+		</bndbox>
+	</object>
+</annotation>
