@@ -1,0 +1,50 @@
+<annotation>
+	<folder>noisy training input combined data</folder>
+	<filename>Noise-less_LDOOP_SM_signal 1 (15).png</filename>
+	<path>E:\Thesis data\fringe detection\noisy-test-output\Noisy fringes training data\noisy training input combined data\Noise-less_LDOOP_SM_signal 1 (15).png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2378</width>
+		<height>1210</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>negative_fringe</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>349</xmin>
+			<ymin>208</ymin>
+			<xmax>536</xmax>
+			<ymax>916</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>positive_fringe</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>781</xmin>
+			<ymin>172</ymin>
+			<xmax>1023</xmax>
+			<ymax>917</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>positive_fringe</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1039</xmin>
+			<ymin>214</ymin>
+			<xmax>1249</xmax>
+			<ymax>900</ymax>
+		</bndbox>
+	</object>
+</annotation>
