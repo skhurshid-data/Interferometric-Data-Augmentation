@@ -8,6 +8,3 @@ Step-3-Data Augmentation-Anisotropic Scaling: This folder contains all the codes
 Now train your custom model using yolov5 from this github repository;https://github.com/ultralytics/yolov5.
 
 Step-4-Experimental-Sgnals-to-Images-Conversion: This folder contains all the codes of experimental signals to images conversion into a sweet spot.
-![mixed_experimental_results_v2](https://user-images.githubusercontent.com/87930540/126939869-36718797-0ebd-45b7-a67f-8b5b6af3949b.jpg)
-
-![mixed_experimental_results](https://user-images.githubusercontent.com/87930540/126939901-3e09c498-4be6-4134-bfeb-926fb29160c8.jpg)
