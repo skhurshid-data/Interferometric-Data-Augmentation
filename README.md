@@ -2,10 +2,11 @@
 **Step-1-Synthetic Data Generation on mutiple C values:** This folder contains two mat files; one of them is the code for generating synthetic data and other contains the function ("xc_fonction_xs_interpol_f_xs.m") file should be placed in the folder in which the main code file is present. Load this code in matlab and change the paths; you can generate different images under different conditions of C and noise for simulation
 For this current implementation do this:
 ```
-1. C = 1 to 10  #Select a range of values of C in each iteration.
-2. Noise = 0.08*randn(length(P_simo),1);            #Select a value of Noise as in this line and modify this value of 0.08 according to your own need. SNR_db will represent the amount of noise within the signal.
-3. SNR_db= 2*10 * log10(SNR)         # SNR in db will automatically changed when that 0.08 value will be modified.
-4. xlim([0.88 0.98]); ylim([-1.5 1.5]); #Change the values of xlim and ylim such as there should be minimum one fringe and ideally 10 to 12 fringes in a plot.
+1. C = 1 to 10;                                 #Select a range of values of C in each iteration.
+2. Noise = 0.08*randn(length(P_simo),1);        #Select a value of Noise as in this line and modify this value of 0.08 according to your own need. SNR_db will represent the amount of noise within the signal.
+3. SNR_db= 2*10 * log10(SNR);                   # SNR in db will automatically changed when that 0.08 value will be modified.
+4. xlim([0.88 0.98]); 
+ylim([-1.5 1.5]);                               #Change the values of xlim and ylim such as there should be minimum one fringe and ideally 10 to 12 fringes in a plot.
 ```
 6. Once all above values are selected, run the code and you will get a set of plot saved in the folder.
 7. Repeat these above steps by changing values and for exact implementation, the values should be same as we mentioned in paper for training regime such as C = 1 to 10 and noise upto 13.5 dB.
