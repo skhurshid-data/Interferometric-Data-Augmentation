@@ -23,11 +23,11 @@ For this current implementation do this:
 
 **Step-3-Data Augmentation-Anisotropic Scaling:** This folder contains all the codes used for anisotropic scaling as our novel augmentation method.
 
-Now train your custom model using yolov5 from this github repository;https://github.com/ultralytics/yolov5.
+**Step-4-Training** Now train yolov5 on your custom data set from this github repository;https://github.com/ultralytics/yolov5.
 
-**Step-4-Experimental-Signals-to-Images-Conversion:** This folder contains all the codes of experimental signals to images conversion into a sweet spot.
+**Step-5-Experimental-Signals-to-Images-Conversion:** This folder contains all the codes of experimental signals to images conversion into a sweet spot.
 
-**Step-5-Testing the data:** Here are some testing results from given pretrained model;
+**Step-6-Testing the data:** Here are some testing results from given pretrained model;
 These are the weights of custom trained model: https://drive.google.com/drive/folders/1_4urUrQiUjeQMvd4FBGDmCpJfxxMYsov?usp=sharing
 ![Exp_signal 21+1i](https://user-images.githubusercontent.com/87930540/126940471-fa60059a-4acd-4d5a-b6da-9861f912384b.png)
 ![mixed_exp2](https://user-images.githubusercontent.com/87930540/126940491-8600c02a-5110-4c39-81b1-0d7857adf3ff.png)
