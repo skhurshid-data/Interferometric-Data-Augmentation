@@ -35,5 +35,5 @@ This folder contains all the codes of experimental signals to images conversion 
 #### Step-6-Testing the data 
 Here are some testing results from given pretrained model;
 These are the weights of custom trained model: https://drive.google.com/drive/folders/1_4urUrQiUjeQMvd4FBGDmCpJfxxMYsov?usp=sharing
-![Exp_signal 21+1i](https://user-images.githubusercontent.com/87930540/126940471-fa60059a-4acd-4d5a-b6da-9861f912384b.png)
+![Exp_signal 21+1i](https://user-images.githubusercontent.com/87930540/126940471-fa60059a-4acd-4d5a-b6da-9861f912384b.png#gh-dark-mode-only)
 ![mixed_exp2](https://user-images.githubusercontent.com/87930540/126940491-8600c02a-5110-4c39-81b1-0d7857adf3ff.png)
